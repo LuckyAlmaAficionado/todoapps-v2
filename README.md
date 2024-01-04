@@ -1,6 +1,3 @@
-Tentu, berikut adalah contoh README untuk aplikasi Todo V2 menggunakan Flutter dan Sqflite:
-
-```markdown
 # Todo App V2
 
 A modern and efficient Todo application powered by Flutter and Sqflite. Manage your tasks seamlessly with a sleek interface and powerful features.
@@ -64,6 +61,3 @@ Feel free to contribute to make this Todo app even better! Whether it's fixing b
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Pastikan untuk menyertakan tangkapan layar aplikasi dalam folder "screenshots" dan menyesuaikan dengan struktur folder dan file sesuai dengan proyek Anda.
