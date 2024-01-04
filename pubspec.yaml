@@ -1,0 +1,28 @@
+name: todo
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  dotted_border: ^2.1.0
+  flutter:
+    sdk: flutter
+  gap: ^3.0.1
+  get: 4.6.6
+  google_fonts: ^6.1.0
+  percent_indicator: ^4.2.3
+  shared_preferences: ^2.2.2
+  sqflite: ^2.3.0
+  step_progress_indicator: ^1.0.2
+  uuid: ^4.2.2
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
