@@ -1,16 +1,22 @@
-# todo
+# To-Do List Manager
 
-A new Flutter project.
+To-Do List Manager adalah aplikasi sederhana untuk mengelola tugas-tugas Anda dengan mudah dan efisien. Aplikasi ini memungkinkan pengguna membuat judul untuk setiap tugas yang akan diberikan, dengan kemampuan untuk menambahkan beberapa task di dalamnya. Setiap task dapat dicentang sebagai tanda penyelesaian, dan secara otomatis, persentase penyelesaian dari setiap tugas akan dihitung dan mencerminkan kemajuan proyek.
 
-## Getting Started
+## Fitur Utama:
 
-This project is a starting point for a Flutter application.
+### 1. Judul Tugas
+- Pengguna dapat membuat judul tugas sebagai judul utama untuk setiap proyek atau aktivitas yang akan dikerjakan.
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Task di Dalam Judul
+- Setiap judul tugas dapat diisi dengan beberapa task yang diperlukan untuk menyelesaikan tugas tersebut.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 3. Penyelesaian Task
+- Task dapat dicentang untuk menunjukkan bahwa mereka telah selesai, memberikan gambaran visual tentang progres keseluruhan tugas.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 4. Persentase Penyelesaian
+- Persentase penyelesaian dari setiap judul tugas dihitung secara otomatis dan ditampilkan di halaman utama (dashboard), memberikan gambaran keseluruhan proyek.
+
+## Screenshot Aplikasi
+![Screenshot Aplikasi!](assets/screenshots/assets_1.png)
+
+Dengan To-Do List Manager, Anda dapat dengan mudah melacak dan mengelola tugas-tugas Anda dalam satu aplikasi yang efisien dan mudah digunakan. Selamat mengatur dan menyelesaikan tugas Anda!
